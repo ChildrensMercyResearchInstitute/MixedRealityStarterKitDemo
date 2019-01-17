@@ -1,0 +1,1 @@
+This is a placeholder file to keep the App folder intact during GitHub operations. Please do not remove.

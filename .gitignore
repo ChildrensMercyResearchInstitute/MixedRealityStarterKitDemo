@@ -1,0 +1,8 @@
+Assets/HoloToolkit/
+Assets/MixedRealityStarterKit/
+Library/PlayerDataCache/
+Library/metadata/
+Library/ShaderCache/
+Assets/MixedRealityStarterKit.meta
+Assets/HoloToolkit.meta
+*.log
