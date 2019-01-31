@@ -1,6 +1,29 @@
 # Mixed Reality Starter Kit Demo 
 Contains a Unity 2018 project demonstrating  Children's Research Institute's Mixed Reality Starter Kit being used in conjunction with Microsoft's Mixed Reality Toolkit. The Mixed Reality Starter Kit is a reusable set of C# scripts and UI elements for quickly publishing apps that display interactive 3D holograms to Microsoft's HoloLens with little to no programming or scripting knowledge. The kit includes visual buttons, hand gestures, and voice commands for model rotation, resizing, hiding portions of a model, and undoing these actions. 
 
+![mrsk demo](https://user-images.githubusercontent.com/33156643/52087530-51791c80-256f-11e9-83d7-e9d4f5a7478c.gif)
+
+# Demo Videos
+
+1. https://www.youtube.com/watch?v=O6x1AsDEqno
+2. https://www.youtube.com/watch?v=CEtRWAKekWA
+3. https://www.youtube.com/watch?v=0jjTI3yN78w
+
+#	Software Dependencies
+1. Microsoft Windows 10 with Fall Creator's Update installed.
+1. HoloLens Developer Mode enabled. Read how to enable Developer Mode here: https://docs.microsoft.com/en-us/windows/mixed-reality/using-visual-studio
+1. Unity 2018.2.16f1, available here: https://unity3d.com/get-unity/download/archive
+    - Developing for HoloLens usually requires a specific version of Unity. We've found Unity 2018.2.16f1, available at the link above, to work best with this project.
+    - You can install multiple versions of Unity on your PC by customizing the installation path during the initial install by adjusting the "Unity install folder." We tend to have 2 or 3 versions of Unity installed at any given time, so our standard is to name the install folder after the specific Unity version it will contain. 
+    - This screenshot shows a custom install path for Unity 2018.2.16f1:
+    
+    ![unity install path](https://user-images.githubusercontent.com/33156643/52063350-13acd180-2538-11e9-8275-60183ddedefc.PNG)
+
+1. Visual Studio 2017 or higher, available here: https://www.visualstudio.com/downloads/
+    1. Select the option to install Universal Windows Platform development tools when prompted by Visual Studio installer.
+1. Microsoft Mixed Reality Toolkit, available here: https://github.com/Microsoft/MixedRealityToolkit-Unity
+1. Children's Research Institute's Mixed Reality Starter Kit, available here: https://github.com/ChildrensResearchInstitute/MixedRealityStarterKit
+
 # Getting Started
 1.	Installation process
 	1. Clone or download this repository from GitHub.
@@ -35,13 +58,6 @@ Contains a Unity 2018 project demonstrating  Children's Research Institute's Mix
         ```
     1. The MixedRealityStarterKitDemo project is now ready to build and test.
 
-1.	Software dependencies
-    1. Microsoft Windows 10 with Fall Creator's Update installed.
-    1. Unity 2018.2.16f1, available here: https://store.unity.com/
-    1. Visual Studio 2017 or higher, available here: https://www.visualstudio.com/downloads/
-		1. Select the option to install Universal Windows Platform development tools when prompted by Visual Studio installer.
-	1. Microsoft Mixed Reality Toolkit, available here: https://github.com/Microsoft/MixedRealityToolkit-Unity
-	1. Children's Research Institute's Mixed Reality Starter Kit, available here: https://github.com/ChildrensResearchInstitute/MixedRealityStarterKit
 
 # Build and Test
 
@@ -77,8 +93,4 @@ Contains a Unity 2018 project demonstrating  Children's Research Institute's Mix
         - Potential Resolution 1: Clean the Visual Studio solution and try running the app without debugging again. 
         - Potential Resolution 2: Delete the App folder that contains the Visual Studio solution, create a new, empty App folder in its place, and redo all Build and Deploy steps above.
 
-# Demo Videos
 
-1. https://www.youtube.com/watch?v=O6x1AsDEqno
-2. https://www.youtube.com/watch?v=CEtRWAKekWA
-3. https://www.youtube.com/watch?v=0jjTI3yN78w
