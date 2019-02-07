@@ -21,13 +21,13 @@ Contains a Unity 2018 project demonstrating  Children's Research Institute's Mix
 
 1. Visual Studio 2017 or higher, available here: https://www.visualstudio.com/downloads/
     1. Select the option to install Universal Windows Platform development tools when prompted by Visual Studio installer.
-1. Microsoft Mixed Reality Toolkit, available here: https://github.com/Microsoft/MixedRealityToolkit-Unity
+1. Microsoft Mixed Reality Toolkit for Unity version 2017.4.2.0, available here: https://github.com/Microsoft/MixedRealityToolkit-Unity/archive/2017.4.2.0.zip
 1. Children's Research Institute's Mixed Reality Starter Kit, available here: https://github.com/ChildrensResearchInstitute/MixedRealityStarterKit
 
 # Getting Started
 1.	Installation process
 	1. Clone or download this repository from GitHub.
-	1. Clone or download Microsoft's Mixed Reality Toolkit from https://github.com/Microsoft/MixedRealityToolkit-Unity
+	1. Download Microsoft's Mixed Reality Toolkit for Unity version 2017.4.2.0 from https://github.com/Microsoft/MixedRealityToolkit-Unity/archive/2017.4.2.0.zip
 	1. Clone or download Children's Research Institute's Mixed Reality Starter Kit from https://github.com/ChildrensResearchInstitute/MixedRealityStarterKit
     1. Use Windows Explorer to copy and paste the HoloToolkit and MixedRealityStarterKit folders into the Assets folder of the MixedRealityStarterKitDemo project:
         1. Copy the HoloToolkit folder, which you'll find inside the Assets folder included in the Microsoft MixedRealityToolkit's folder hierarchy.
